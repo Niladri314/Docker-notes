@@ -271,7 +271,7 @@ Step 1: vi dockerfile
 FROM openjdk:17
 MAINTAINER Pankaj
 RUN echo 'run-1'
-RUN echo 'run-2
+RUN echo 'run-2'
 CMD echo 'cmd-1'
 CMD echo 'cmd-2'
 
